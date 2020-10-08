@@ -7,5 +7,5 @@ The arguments ["hello", "hey"] should return false because the string "hello" do
 
 Lastly, ["Alien", "line"], should return true because all of the letters in "line" are present in "Alien".
 
-## Credits
+### CREDITS
 [freeCodeCamp](https://www.freecodecamp.org/)
